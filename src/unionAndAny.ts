@@ -15,3 +15,5 @@ let userinput1: unknown;
 userinput1 = 'rahulraj';
 userinput1 = 5;
 userinput1 = true;
+
+(userinput1 as string).toUpperCase();
